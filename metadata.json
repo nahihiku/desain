@@ -1,0 +1,6 @@
+{
+  "name": "NipNime Top-Up",
+  "description": "Top-Up Game & Produk Digital Otomatis 24 Jam — Mobile Legends, Free Fire, Valorant, Genshin Impact, Voucher, Pulsa & E-Money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
